@@ -1,0 +1,18 @@
+    <div class="col-xs-12" 
+        style="
+            border-top: 1px solid #929292;
+            padding: 15px 0px 15px 0px;
+            text-align: center;" >
+        
+        <ul class="nav nav-tabs">
+            <li role="presentation" class="active"><a href="index.jsp">Página Inicial</a></li>
+            <li role="presentation" ><a href="criar.html">Criar Usuário</a></li>
+            <li role="presentation" ><a href="listar.html">Listar Usuários</a></li>
+            <li role="presentation" ><a href="criarTarefa.html">Criar Tarefa</a></li>
+            <li role="presentation" ><a href="listarTarefa.html">Listar Tarefas</a></li>
+            <li role="presentation" ><a href="criarEtiqueta.html">Criar Etiqueta</a></li>
+            <li role="presentation" ><a href="listarEtiqueta.html">Listar Etiquetas</a></li>
+            <li role="presentation" ><a href="listarEtiquetaPorAutor.html">Listar Etiquetas Autor</a></li>
+            <li role="presentation" ><a href="listarEtiquetaPorAutoreTitulo.html">Listar Etiquetas Autor e Título</a></li>
+        </ul>
+    </div>
